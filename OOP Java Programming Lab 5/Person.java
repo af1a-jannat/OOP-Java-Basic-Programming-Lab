@@ -1,4 +1,4 @@
-lass Person {
+class Person {
 
     String name;
     int age;
